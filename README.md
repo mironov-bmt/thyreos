@@ -24,7 +24,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/thyreos.git
+git clone https://github.com/mironov-bmt/thyreos.git
 cd thyreos
 
 # Install dependencies
